@@ -1,6 +1,6 @@
 # 📦 StockTracker Pro - Inventory Management System
 
-A modern, mobile-first inventory management application built with native Android WebView technology. Perfect for small businesses, warehouses, and personal collections that need efficient, offline-capable inventory tracking with image support.
+A modern, mobile-first inventory management application built with native Android technology. Perfect for small businesses, warehouses, and personal collections that need efficient, offline-capable inventory tracking with image support.
 
 ## 🚀 Features
 
