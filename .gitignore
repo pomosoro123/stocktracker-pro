@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+dist/
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Capacitor (keep android for our WebView app)
+ios/
+.capacitor/
+
+# Android build artifacts (but keep the APK)
+android/app/build/intermediates/
+android/app/build/tmp/
+android/app/build/generated/
+android/.gradle/
+android/local.properties
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Keep our built APK
+!android/app/build/outputs/apk/debug/app-debug.apk
+!StockTracker-Pro.apk
