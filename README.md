@@ -38,7 +38,8 @@ A modern, mobile-first inventory management application built with native Androi
 ## 📱 Download & Installation
 
 ### 🚀 Direct APK Download
-**[APK: https://drive.google.com/file/d/1zpPPL1tyX8SiJUvB-EMtorMyyVRhKMzn/view?usp=drivesdk](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/android/app/build/outputs/apk/debug/app-debug.apk)**
+**[APK: https://github.com/pomosoro123/stocktracker-pro/blob/main/app-debug.apk]
+(https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/android/app/build/outputs/apk/debug/app-debug.apk)**
 
 > **Note**: Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub repository details after uploading.
 
